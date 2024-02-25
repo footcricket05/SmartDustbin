@@ -1,1 +1,1 @@
-# Smart Plug
+# Smart Dustbin
