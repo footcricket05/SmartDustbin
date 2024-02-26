@@ -18,10 +18,11 @@ Smart Dustbin automates the opening and closing of a dustbin's lid using an Ardu
 https://github.com/footcricket05/SmartDustbin/assets/93007427/f1f8fb3d-807c-473b-b131-4a293d4b96a1
 
 ## Closing Stage
-![Closing Phase](https://github.com/footcricket05/SmartDustbin/assets/93007427/e73c5479-8028-4d08-b62e-adaccc461e71)
+<img src="https://github.com/footcricket05/SmartDustbin/assets/93007427/e73c5479-8028-4d08-b62e-adaccc461e71" alt="Closing Phase" width="400">
 
 ## Opening Stage
-![Opening Phase](https://github.com/footcricket05/SmartDustbin/assets/93007427/dc979e62-a95d-4420-919e-c23e699a2592)
+<img src="https://github.com/footcricket05/SmartDustbin/assets/93007427/dc979e62-a95d-4420-919e-c23e699a2592" alt="Opening Phase" width="400">
+
 
 ## Setup
 
