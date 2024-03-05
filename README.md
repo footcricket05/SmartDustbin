@@ -1,21 +1,20 @@
-# Smart Dustbin
+# Smart Dustbin 🗑️
 
 Smart Dustbin is a project aimed at creating an intelligent waste management system using Arduino, a servo motor, and an ultrasonic sensor. This system automatically opens its lid when someone approaches it with garbage and closes it after the garbage is disposed of, thus promoting hands-free waste disposal and ensuring hygiene.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Setup](#setup)
-- [Usage](#usage)
-- [License](#license)
+- [Introduction](#introduction-📝)
+- [Setup](#setup-🛠️)
+- [Usage](#usage-🚀)
+- [License](#license-📄)
 
-## Introduction
+## Introduction 📝
 
 Smart Dustbin automates the opening and closing of a dustbin's lid using an Arduino microcontroller, a servo motor, and an ultrasonic sensor. When an individual approaches the dustbin with garbage, the ultrasonic sensor detects their presence and triggers the servo motor to open the lid. After the garbage is disposed of, the lid automatically closes, promoting cleanliness and hygiene.
 
-
 ## Working Demonstration
-https://github.com/footcricket05/SmartDustbin/assets/93007427/f1f8fb3d-807c-473b-b131-4a293d4b96a1
+![Working Demonstration](https://github.com/footcricket05/SmartDustbin/assets/93007427/f1f8fb3d-807c-473b-b131-4a293d4b96a1)
 
 ## Closing Stage
 <img src="https://github.com/footcricket05/SmartDustbin/assets/93007427/e73c5479-8028-4d08-b62e-adaccc461e71" alt="Closing Phase" width="400">
@@ -24,7 +23,7 @@ https://github.com/footcricket05/SmartDustbin/assets/93007427/f1f8fb3d-807c-473b
 <img src="https://github.com/footcricket05/SmartDustbin/assets/93007427/dc979e62-a95d-4420-919e-c23e699a2592" alt="Opening Phase" width="400">
 
 
-## Setup
+## Setup 🛠️
 
 To set up the Smart Dustbin project, follow these steps:
 
@@ -34,8 +33,7 @@ To set up the Smart Dustbin project, follow these steps:
 
 3. Upload the Arduino sketch (`SmartDustbin.ino`) to your Arduino board.
 
-
-## Usage
+## Usage 🚀
 
 Once the Smart Dustbin project is set up, you can start using it by following these steps:
 
@@ -49,7 +47,6 @@ Once the Smart Dustbin project is set up, you can start using it by following th
 
 5. After a few seconds of inactivity, the lid closes automatically.
 
-
-## License
+## License 📄
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
