@@ -14,7 +14,8 @@ Smart Dustbin is a project aimed at creating an intelligent waste management sys
 Smart Dustbin automates the opening and closing of a dustbin's lid using an Arduino microcontroller, a servo motor, and an ultrasonic sensor. When an individual approaches the dustbin with garbage, the ultrasonic sensor detects their presence and triggers the servo motor to open the lid. After the garbage is disposed of, the lid automatically closes, promoting cleanliness and hygiene.
 
 ## Working Demonstration
-![Working Demonstration](https://github.com/footcricket05/SmartDustbin/assets/93007427/f1f8fb3d-807c-473b-b131-4a293d4b96a1)
+
+https://github.com/footcricket05/SmartDustbin/assets/93007427/2c7d1268-57b2-4cba-bd98-06d4b9950443
 
 ## Closing Stage
 <img src="https://github.com/footcricket05/SmartDustbin/assets/93007427/e73c5479-8028-4d08-b62e-adaccc461e71" alt="Closing Phase" width="400">
