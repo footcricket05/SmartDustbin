@@ -1,4 +1,4 @@
-# 🚮 Smart Dustbin Project
+# 🚮 Smart Dustbin 
 
 The Smart Dustbin project is an innovative waste management solution that uses technology to automate trash disposal, promote environmental sustainability, and maintain hygiene. Developed at the SRM Institute of Science and Technology, this system incorporates sensors, microcontrollers, and IoT connectivity for smarter waste management on campus.
 
